@@ -17,3 +17,5 @@ Route::get('/', function ()
 });
 
 Route::any('index/{name?}', 'IndexController@index');
+
+Route::any('id', 'IndexController@selfId');

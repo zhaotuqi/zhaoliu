@@ -1,0 +1,12 @@
+{
+    "name": "library/state-machine",
+    "description": "状态机",
+    "type": "library",
+    "authors": [
+        {
+            "name": "赵力",
+            "email": "li.zhao02740@wenba100.com"
+        }
+    ],
+    "require": {}
+}
